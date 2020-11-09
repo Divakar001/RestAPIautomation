@@ -1,2 +1,2 @@
 # RestAPIautomation
-This will contains the code for automating the RestAPI with HTTP URL Connection &amp; Unirest plugins
+This will contains the code for automating the RestAPI with buildin java HTTP URL Connection &amp; Unirest plugins
