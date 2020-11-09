@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Divakar/Downloads/unirest-java-1.4.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Divakar/Downloads/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Divakar/Downloads/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Divakar/Downloads/httpasyncclient-4.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Divakar/Downloads/httpclient-4.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Divakar/Downloads/httpcore-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Divakar/Downloads/httpcore-nio-4.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Divakar/Downloads/httpmime-4.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Divakar/Downloads/json-20140107.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
